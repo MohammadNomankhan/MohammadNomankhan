@@ -6,9 +6,8 @@ Frontend Developer
 
 I am a frontend developer, I am looking forward to learning.
 
-* 🌍  I'm based in Anand
-* ✉️  You can contact me at [khannoman1702@gmail.com](mailto:khannoman1702@gmail.com)
-* 🚀  I'm currently working on [Natours - Nature + tours.](http://github.com/MohammadNomankhan/Natours)
+* 🌍  I'm based in Anand
+* 🚀  I'm currently working on [Natours - Nature + tours.](http://github.com/MohammadNomankhan/Natours)
 * 🧠  I'm learning Advanced CSS.
 * ⚡  I just want to tell you, greatness is coming. Come join me.
 

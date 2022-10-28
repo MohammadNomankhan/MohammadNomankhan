@@ -7,7 +7,7 @@ Frontend Developer
 I am a frontend developer, I am looking forward to learning.
 
 * 🌍  I'm based in Anand
-* 🚀  I'm currently working on [Nexter - A real estate website.](https://github.com/MohammadNomankhan/nexter)
+* 🚀  I'm currently working on [Timerly - A custom countdown website.](https://github.com/MohammadNomankhan/Timerly)
 * 🧠  I'm making Javascript projects.
 * ⚡  I just want to tell you, greatness is coming. Come join me.
 

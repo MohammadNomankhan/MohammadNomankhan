@@ -6,9 +6,9 @@ Frontend Developer
 
 I am a frontend developer, I am looking forward to learning.
 
-* 🌍  I'm based in Anand
-* 🚀  I'm currently working on [Timerly - A custom countdown website.](https://github.com/MohammadNomankhan/Timerly)
-* 🧠  I'm making Javascript projects.
+* 🌍  I'm based in India
+* 🚀  I'm currently working on JavaScript
+<!-- * 🧠  I'm making Javascript projects. -->
 * ⚡  I just want to tell you, greatness is coming. Come join me.
 
 <a href="https://www.twitter.com/nomanstwt" target="_blank" rel="noreferrer"><img

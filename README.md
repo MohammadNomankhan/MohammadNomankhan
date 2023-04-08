@@ -7,7 +7,7 @@ Frontend Developer
 I am a frontend developer, I am looking forward to learning.
 
 * 🌍  I'm based in India
-* 🚀  I'm currently working on JavaScript
+* 🚀  I'm currently working on ReactJS
 <!-- * 🧠  I'm making Javascript projects. -->
 * ⚡  I just want to tell you, greatness is coming. Come join me.
 
